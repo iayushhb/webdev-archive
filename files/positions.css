@@ -1,0 +1,19 @@
+#box1{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    position: sticky;
+    top: 10px;
+    right: 50px;
+}
+
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+/* fixed means it's gonna stick there and reltive means it will move according to the other elements just like an ad and what absolute does is that if you're moving the parent element the child element is gonna move along with it too */

@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+
+/* to style using id */
+/* #p1{
+    color: red;
+}
+#p2{
+    color: blue;
+}
+#p3{
+    color: green;
+}
+#p4{
+    color: blueviolet;
+} */
+
+/* to style using class */
+.A{
+    color: white;
+}
+.B{
+    color: green;
+}

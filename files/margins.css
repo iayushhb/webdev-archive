@@ -1,0 +1,29 @@
+/* body{
+    margin: 0px;
+} */
+
+.box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 500px;
+    height: 500px;
+}
+
+#box1{
+    background-color: blueviolet;
+    margin: 50px;
+}
+#box2{
+    background-color: rgb(53, 255, 117);
+    margin-left: 50px;
+}
+#box3{
+    background-color: rgb(229, 255, 0);
+    margin: 50px;
+    margin-left: auto;
+}
+#box4{
+    background-color: rgb(177, 177, 173);
+    margin: 50px;
+    margin: auto;
+}

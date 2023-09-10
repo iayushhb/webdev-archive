@@ -1,0 +1,22 @@
+/* h1{
+    border-style: solid;
+    border-width: 10px;
+    border-color: hsl(252, 84%, 49%);
+    border-radius: 20px;  
+
+} 
+*/
+
+/* better way */
+
+h1{
+    border : 10px solid hsl(252, 85%, 44%);
+    border-radius: 20px;  
+}
+
+p{
+    border-top: 3px dotted red;
+    border-bottom: 3px dotted blue;
+    border-right: 3px solid black;
+    border-left: 3px solid pink;
+}

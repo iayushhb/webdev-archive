@@ -1,0 +1,15 @@
+/* horizontal vertical blur color */
+/* -ve for opposite direction */
+
+h1{
+    text-shadow: 5px 3px 2px pink, -5px -3px 2px red;
+    font-size: 50px;
+}
+
+/* text shadows are for text and box shadow is for other elements */
+#box1{
+    width: 1000px;
+    height: 600px;
+    background-color: blanchedalmond;
+    box-shadow: 10px 10px 5px grey;
+}

@@ -1,0 +1,10 @@
+h1{
+    font-family:  sans-serif, arial;
+    font-size: 3.1em;
+}
+p{
+    font-family: "Open Sans",'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}

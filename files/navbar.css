@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+main {
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
+
+.navbar ul{
+    overflow: hidden;
+    list-style-type: none;
+    background-color: aquamarine;
+    padding: 0;
+    margin: 0px;
+}
+.navbar a{
+    color: blue;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: pink;
+}
+.navbar li{
+    float: left;
+}

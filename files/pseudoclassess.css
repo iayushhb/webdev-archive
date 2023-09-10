@@ -1,0 +1,37 @@
+a:link {
+    color: black;
+}
+
+/* visited fixes color of link that is overwritten by your browser with a default "visited" link color */
+a:hover {
+    color: darkgreen;
+    font-size: 1.1em;
+}
+a:active {
+    color: blueviolet;
+    font-size: 1.1em;
+}
+a:visited {
+    color: orange;
+}
+li:hover {
+    background-color: pink;
+    color: aquamarine;
+    font-size: 1.1em;
+}
+/* if the things are not being hovered over */
+li:not(:hover) {
+    color: grey;
+}
+/* to select the nth thing */
+li:nth-child(9) {
+    color: black;
+}
+#container p {
+    background-color: blue;
+    padding: 5px;
+    display: none;
+}
+#container:hover p {
+    display: block;
+}
